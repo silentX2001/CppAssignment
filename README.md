@@ -1,4 +1,4 @@
-# C-Assignment
+# C++ Assignment
 This is a repository to store c++ college assignment(BCA). Which will help for easy reference.
 # List of Programme
 1. Area of shapes in C++ 
